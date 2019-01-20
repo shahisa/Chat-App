@@ -5,7 +5,7 @@
 A React Chat application using the Pusher Chatkit API
 
 ## Issues
-
+### First Issue 
 ```
 currentUser.subscribeToRoom({
         roomId: 19395163,
